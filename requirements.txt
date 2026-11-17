@@ -1,4 +1,6 @@
 streamlit
+PyMuPDF
 Pillow
 pandas
 qrcode
+requests
