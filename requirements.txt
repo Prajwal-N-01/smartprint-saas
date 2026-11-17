@@ -1,0 +1,6 @@
+streamlit
+Pillow
+scikit-learn
+pandas
+numpy
+qrcode
